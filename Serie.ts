@@ -1,4 +1,4 @@
-class Serie {
+export class Serie {
     id: number;
     title: string;
     network: string;
